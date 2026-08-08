@@ -181,3 +181,5 @@ Passionate about web&network security, vulnerability assessment, and continuous 
 ## License
 
 This project is intended for educational purposes as part of the CodeAlpha Cyber Security Internship.
+
+Project status: Active development.
