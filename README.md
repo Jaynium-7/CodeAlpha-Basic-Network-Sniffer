@@ -172,8 +172,6 @@ During this project I gained practical experience with:
 ## Author
 Joseph Victor Ese-Osa
 
-Cybersecurity Researcher | Computer Science Graduate
-
 Passionate about web&network security, vulnerability assessment, and continuous learning in cybersecurity.
 
 ---
@@ -182,4 +180,3 @@ Passionate about web&network security, vulnerability assessment, and continuous 
 
 This project is intended for educational purposes as part of the CodeAlpha Cyber Security Internship.
 
-Project status: Active development.
