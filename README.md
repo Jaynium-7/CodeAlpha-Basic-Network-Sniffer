@@ -90,8 +90,8 @@ CTRL + C
 ```text
 ======================================================================
 Time             : 2026-08-06 11:50:21
-Source IP        : 192.168.1.10
-Destination IP   : 142.250.190.78
+Source IP        : 192.168.xx.xx
+Destination IP   : 142.xx.xx.xx
 Protocol         : TCP
 Source Port      : 53144
 Destination Port : 443
