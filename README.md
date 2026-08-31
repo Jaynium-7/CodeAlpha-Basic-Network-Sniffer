@@ -167,6 +167,13 @@ During this project I gained practical experience with:
 * Network payload inspection
 * Basic cybersecurity and network monitoring concepts
 
+
+## Video Demonstration
+
+A video demonstration of this project is available on my LinkedIn:
+
+[Watch the project demonstration](https://lnkd.in/p/dvSQ22yq) 
+
 ---
 
 ## Author
